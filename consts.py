@@ -1,3 +1,4 @@
 TG_TOKEN = ""
 FM_API_KEY = ""
-FM_API_USERNAME =""
+FM_API_SECRET = ""
+FM_USERNAME = ""
